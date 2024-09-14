@@ -14,4 +14,4 @@
 
 ## Purpose
 
-The goal of this project is to familiarize myself with image processing techniques and OOP principles, preparing me to work on my thesis.
+The goal of this project is to familiarize myself with image processing techniques and OOP principles, preparing me to work on my Graduation Thesis.
